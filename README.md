@@ -17,7 +17,7 @@ If you notice a bug or have a feature request, feel free to open an issue.
 
 2. Clone repo and cd to repo root.
 
-   `git clone https://github.com/downforacross/downforacross.com.git`
+   `git clone https://github.com/ScaleOvenStove/crosswithfriends.git`
    `cd downforacross.com`
 
 3. Use node v18
@@ -36,7 +36,7 @@ If you notice a bug or have a feature request, feel free to open an issue.
 Cross with Friends is open to contributions from developers of any level or experience.
 See the `Getting Started` section for instructions on setting up.
 
-Join the [discord](https://discord.gg/KjPHFw8) for discussion.
+Join the [discord](https://discord.gg/cncyyVE8QM) for discussion.
 
 ### Tips
 
@@ -50,9 +50,4 @@ Developing for mobile web:
 
 - https://firebase.google.com/docs/database/web/start (intro to firebase realtime database)
 - https://reactjs.org/tutorial/tutorial.html (intro to react)
-- https://www.messenger.com/t/steven.hao.14 (helpline)
-- https://discord.gg/KjPHFw8 (community discord)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=downforacross/downforacross.com&type=Date)](https://star-history.com/#downforacross/downforacross.com&Date)
+- https://discord.gg/cncyyVE8QM (community discord)
