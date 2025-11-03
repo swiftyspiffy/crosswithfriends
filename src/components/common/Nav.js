@@ -47,7 +47,7 @@ function LogIn({user, style}) {
 
 function showInfo() {
   swal({
-    title: 'downforacross.com',
+    title: 'crosswithfriends.com',
     icon: 'info',
     content: (
       <div className="swal-text swal-text--no-margin">

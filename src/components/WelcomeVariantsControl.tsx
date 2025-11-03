@@ -11,7 +11,7 @@ export const WelcomeVariantsControl: React.FC<{
   const classes = useStyles();
   const showFencingInfo = () => {
     swal({
-      title: 'downforacross.com/fencing',
+      title: 'crosswithfriends.com/fencing',
       icon: 'info',
       content: (
         <div className="swal-text swal-text--no-margin">
